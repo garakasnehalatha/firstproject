@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>tables</title>
+<title>tables</title>
 </head>
 <body>
 <table>
